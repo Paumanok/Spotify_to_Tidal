@@ -14,3 +14,7 @@ This will finish with a big JSON blob in your current directory. Edit the file a
 If you're brave you can run both but its good to verify output before cluttering your tidal playlist screen. 
 
 By the end you should have most of a transfered playlist. Goodluck! I might update this to be more user friendly in the future. 
+
+Requirements:
+spotipy 
+tidalapi V07.0 (0.7 is in beta right now so you may need to clone and install manually, pip version wont work)
