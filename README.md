@@ -5,7 +5,7 @@ In order to use this, you must first generate a spotify client ID and secret. Pu
 
 Usage:
 ```
-  python3 spotify_to_tidal.py --build_json --playlist_id 6Ig27y0QryKLs9BWhzhfc6 --create_playlist  --playlist_name "polyvinyl test" 
+spotify_to_tidal.py --build_json --playlist_id <spotify playlist id> --create_playlist  --playlist_name "<name>" 
 
 ```
 
