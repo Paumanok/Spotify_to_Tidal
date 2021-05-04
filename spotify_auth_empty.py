@@ -1,3 +1,4 @@
 class spotify_auth:
-    self.client_id = None
-    self.client_secret = None
+    def __init__(self):
+        self.client_id = ""
+        self.client_secret = ""
